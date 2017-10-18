@@ -16,7 +16,7 @@ public class Entry {
 		FrameCalc frame = new FrameCalc();
 		frame.setVisible(true);
 		Insets in = frame.getInsets();
-		frame.setSize(310+in.left*2, 394+in.top+in.bottom);
+		frame.setSize(310+in.left*2, 392+in.top+in.bottom);
 		frame.setLocationRelativeTo(null);
 	}
 }
